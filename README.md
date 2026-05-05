@@ -1,4 +1,4 @@
-# 🛒 Superstore Data Analysis Dashboard
+#  Superstore Data Analysis Dashboard
 
 A visually engaging and insightful data analysis project built using Superstore sales data. This dashboard uncovers key business insights across sales, profit, customer segments, shipping modes, and regional performance.
 
@@ -77,7 +77,7 @@ Superstore-Data-Analysis/
 
 ---
 
-Dashboard View : 
+Dashboard View : https://github.com/shivam10x/SuperStore-Sales-Data-Analysis-By-Power-Bi/blob/main/Screenshot%202026-05-05%20091957.png
 
 ## 🤝 Contributing
 
